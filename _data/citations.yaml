@@ -13,6 +13,25 @@
   tatsuya-murakami: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1073/pnas.2426628122
+  title: An open-source photobleacher for fluorescence imaging of large pigment-rich
+    tissues
+  authors:
+  - Tatsuya C. Murakami
+  - Nick Belenko
+  - Griffin Dennis
+  - Cuidong Wang
+  - Maria Esterlita Siantoputri
+  - Yurie Maeda
+  - Christina Pressl
+  - Nathaniel Heintz
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-09-17'
+  link: https://doi.org/hbn2sn
+  orcid: 0000-0002-3734-9359
+  tatsuya-murakami: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.02.24.639965
   title: Open-source Photobleacher for Fluorescent Imaging of Large Pigment-Rich Tissues
   authors:
