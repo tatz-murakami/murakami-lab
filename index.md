@@ -3,7 +3,7 @@
 
 # Systems Neuroanatomy
 
-My research aims to understand the pathogenic mechanisms underlying neurological disorders. We integrate 3D single-cell-resolution imaging with deep learning, focusing on developing a suite of tools to standardize the mammalian brain anatomy at the cellular level. 
+My research aims to understand the cellular basis of neurological disorders. We integrate 3D single-cell-resolution imaging with artificial intelligence, developing a suite of tools to standardize 3D histology of the mammalian brain. 
 
 
 {% include section.html %}
@@ -35,7 +35,7 @@ Powered by tissue clearing and whole-mount staining techniques, we untangle the 
 
 {% capture text %}
 
-We develop state-of-the-art deep learning models to analyze our terabyte-scale volumetric data.
+We develop state-of-the-art artificial intelligence to analyze our terabyte-scale volumetric data.
 
 {%
   include button.html
