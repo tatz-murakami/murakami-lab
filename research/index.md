@@ -30,7 +30,7 @@ We design and train custom neural networks for key tasks such as 3D cell segment
 
 Our computational workflows integrate AI with statistical analysis and interactive visualization, allowing us to detect spatial patterns, quantify changes across experimental conditions, and extract biological insights from massive datasets. By building flexible, generalizable pipelines, we aim to accelerate discovery from cleared-tissue imaging across a wide range of labeling strategies and biological questions.
 
-## Comparative Neuroanatomy in Disease
+## Comparative Human Histology in Disease
 
 To understand how disease impacts the human brain, it is essential to separate pathological changes from the natural anatomical variation that exists across individuals. We develop analysis techniques that enable comparisons across human brain samples while minimizing the influence of inter-individual differences in brain shape and size.
 
