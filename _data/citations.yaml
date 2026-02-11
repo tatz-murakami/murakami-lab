@@ -33,9 +33,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.08.18.670857
-  title: Artificial Intelligence-driven Whole-brain Cell Mapping with Highly Multiplexed In Situ Hybridization
+  title: Artificial Intelligence-driven Whole-brain Cell Mapping with Highly Multiplexed
+    In Situ Hybridization
   authors:
-  - Tatsuya C. Murakami
+  - Tatsuya Murakami
   - Meng Xia
   - Yurie Maeda
   - Yuejia Yin
@@ -47,7 +48,7 @@
   - Nathaniel Heintz
   publisher: openRxiv
   date: '2025-08-22'
-  link: https://doi.org/hbn2qn
+  link: https://doi.org/hbn7n6
   orcid: 0000-0002-3734-9359
   tatsuya-murakami: true
   plugin: orcid.py
