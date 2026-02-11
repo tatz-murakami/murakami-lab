@@ -1,7 +1,6 @@
 # manually correct specific citation detail
 # remove because it is published in peer review
 - id: doi:10.1101/2025.02.24.639965
-  publisher: BioRxiv
   remove: true
   
 - id: doi:10.1101/2024.09.09.612115
