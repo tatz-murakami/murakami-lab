@@ -46,31 +46,13 @@
   - Kazuki Tainaka
   - Sam Reiter
   - Nathaniel Heintz
-  publisher: BioRxiv
+  publisher: openRxiv
   date: '2025-08-22'
   link: https://doi.org/hbn7n6
   orcid: 0000-0002-3734-9359
   tatsuya-murakami: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.02.24.639965
-  title: Open-source Photobleacher for Fluorescent Imaging of Large Pigment-Rich Tissues
-  authors:
-  - Tatsuya C. Murakami
-  - Nick Belenko
-  - Griffin Dennis
-  - Cuidong Wang
-  - Maria Esterlita Siantoputri
-  - Yurie Maeda
-  - Christina Pressl
-  - Nathaniel Heintz
-  publisher: BioRxiv
-  date: '2025-02-25'
-  link: https://doi.org/g9f8gf
-  orcid: 0000-0002-3734-9359
-  tatsuya-murakami: true
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.31083/j.jin2311207
   title: Precise 3D Localization of Intracerebral Implants Using a Simple Brain Clearing
     Method
