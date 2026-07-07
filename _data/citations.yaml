@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1364/optica.586764
+  title: Curved axially scanned light-sheet microscopy
+  authors:
+  - Steven J. Sheppard
+  - Tatsuya C. Murakami
+  - Douglas P. Shepherd
+  publisher: Optica
+  date: '2026-03-30'
+  link: https://doi.org/hb9pf9
+  orcid: 0000-0002-3734-9359
+  tatsuya-murakami: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2025.12.027
+  title: Artificial intelligence-driven whole-brain cell mapping with highly multiplexed
+    in situ hybridization
+  authors:
+  - Tatsuya C. Murakami
+  - Meng Xia
+  - Yurie Maeda
+  - Yuejia Yin
+  - Paolo Emilio Barbano
+  - Ziyi Lin
+  - Tomoyuki Mano
+  - Kazuki Tainaka
+  - Sam Reiter
+  - Nathaniel Heintz
+  publisher: Neuron
+  date: '2026-04-01'
+  link: https://doi.org/hb9pgb
+  orcid: 0000-0002-3734-9359
+  tatsuya-murakami: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.03.691599
   title: Curved Axially Scanned Light-Sheet Microscopy
   authors:
